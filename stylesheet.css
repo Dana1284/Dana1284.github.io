@@ -1,0 +1,9 @@
+.hi{
+    background-color: rgb(148, 229, 234);
+}
+.paragraph1 {font-style: italic;}
+p:hover {background-color: rgb(247, 255, 142);}
+
+body{
+    text-align: center;
+}
